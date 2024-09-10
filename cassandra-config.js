@@ -7,5 +7,6 @@ const client = new cassandra.Client({
 });
 
 module.exports = client;
+//teste
 
 
